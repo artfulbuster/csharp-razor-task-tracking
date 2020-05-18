@@ -14,6 +14,6 @@ namespace Tasker.Pages
 
         }
         
-        public Task NewTask { get; set; };
+        public Task NewTask { get; set; }
     }
 }
