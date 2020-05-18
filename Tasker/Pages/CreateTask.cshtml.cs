@@ -13,5 +13,7 @@ namespace Tasker.Pages
         {
 
         }
+        BindPropertiesAttribute
+        public Task NewTask { get; set; };
     }
 }
